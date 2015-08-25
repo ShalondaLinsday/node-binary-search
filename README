@@ -1,4 +1,4 @@
-This binary search function only works with integer array and it was implemented in C++. And in <a>order to use this program you will :-
+This binary search function only works with integer array and it was implemented in C++. And in order to use this program you will :-
 
 function name = binary search(array, number that needed to find);
 int integer_array=[912,837,384,471,586,474,49,4719,3857,381648];
